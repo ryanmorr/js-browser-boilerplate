@@ -2,7 +2,9 @@ module.exports = (api) => {
     api.cache(true);
 
     const presets = [
-        ["@babel/preset-env"]
+        ["@babel/preset-env", {
+            modules: false
+        }]
     ];
 
     return {
