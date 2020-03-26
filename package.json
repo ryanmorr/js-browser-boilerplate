@@ -1,7 +1,7 @@
 {
   "name": "es6-browser-boilerplate",
   "description": "Minimal boilerplate for browser-based ES6 (ES2015) JavaScript projects",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "Unlicense",
   "author": "Ryan Morr",
   "homepage": "https://github.com/ryanmorr/es6-browser-boilerplate",
