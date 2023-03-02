@@ -1,7 +1,7 @@
 {
   "name": "js-browser-boilerplate",
   "description": "Minimal boilerplate for browser-based JavaScript projects",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "Unlicense",
   "author": "Ryan Morr",
   "homepage": "https://github.com/ryanmorr/js-browser-boilerplate",
