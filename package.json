@@ -5,8 +5,11 @@
   "license": "Unlicense",
   "author": "Ryan Morr",
   "homepage": "https://github.com/ryanmorr/js-browser-boilerplate",
-  "repository": "github:ryanmorr/js-browser-boilerplate",
   "bugs": "https://github.com/ryanmorr/js-browser-boilerplate/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmorr/js-browser-boilerplate.git"
+  },
   "keywords": [],
   "type": "module",
   "main": "dist/cjs/<insert-name>.js",
